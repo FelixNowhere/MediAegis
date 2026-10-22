@@ -1,0 +1,6 @@
+pgmpy==0.1.25
+networkx>=2.8
+matplotlib>=3.5.0
+pandas>=1.4.0
+numpy>=1.22.0
+jupyter
