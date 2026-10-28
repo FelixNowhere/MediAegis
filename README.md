@@ -23,3 +23,9 @@ Este módulo implementa una Red Bayesiana para el diagnóstico médico probabil�
         v           v          v
               [Enfermedad]
 
+
+
+
+
+USO DE AI
+La AI fue utilizada para corroborar que se estuviera ejecutando el código de la mejor manera posible. También fue usada para corregir errores la ejecución en diferentes partes del proyecto. Gemini estudiantil fue usado, modelo 3.6 thinking en diversos prompts. 
